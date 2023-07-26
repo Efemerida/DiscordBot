@@ -88,4 +88,4 @@ async def clear(ctx):
     await ctx.send("bot was cleared")
 
 
-bot.run('OTIxNDkxNTkxNjQwODA1NDE3.GSsn0Y.0J9HSfVuy_Yh2G3uUUHMEqEe32FToADGiQnpRI')
+bot.run('token')
